@@ -1,0 +1,5 @@
+Original jupyter notebook detailing how to implement belongs to Enoch Kan
+
+https://towardsdatascience.com/how-to-implement-an-adam-optimizer-from-scratch-76e7b217f1cc
+https://enoch-kan.medium.com/
+https://gist.github.com/sagarmainkar/41d135a04d7d3bc4098f0664fe20cf3c
